@@ -91,6 +91,8 @@ button.button-primary:focus {
 .intro-header {
   border-top: 5px solid white;
   background-color:$mono-color;
+  height: 430px;
+
 }
 
 .intro-header .post-heading {
@@ -121,7 +123,7 @@ button.button-primary:focus {
 }
 
 .space-small {
-    padding: 50px 0 25px;
+    padding: 0px 0 0px;
 }
 
 .space-extra-small {
