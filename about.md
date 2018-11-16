@@ -26,7 +26,7 @@ I am passionate about agility. I believe in empiricism, continuous improvement a
 * QA Manager, Concrete
 * Co-founder, Ministry Of Testing RJ
 * Member, Team of Thought
-* Organizer, Agile Testers Conference
+* Co-founder, Agile Testers Conference
 
 
 ## Skills
