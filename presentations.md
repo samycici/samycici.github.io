@@ -4,7 +4,13 @@ title: Presentations
 permalink: /presentations/
 ---
 
+### [Qualidade - Definindo uma estratégia para Mobile Apps](https://speakerdeck.com/samycici/qualidade-definindo-uma-estrategia-para-mobile-apps) 
+November, 2018
 
+Have you ever wondered what software quality really means in your current project? Have you thought about what strategy you should address to achieve user satisfaction? Of course "working" functionality is very important, but what's more? Let's talk about setting a quality strategy for apps.
+
+
+***
 
 ### [O que é qualidade de software (na real) e como ela influencia na cultura DevOps](https://speakerdeck.com/samycici/o-que-e-qualidade-de-software-na-real-e-como-ela-influencia-na-cultura-devops) 
 October, 2018
