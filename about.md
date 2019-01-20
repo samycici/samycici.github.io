@@ -8,12 +8,9 @@ Hello :)
 
 I'm Samanta, I'm working with Quality Assurance since 2012.
 
-Today I'm living in São Paulo (Brazil), where I'm a QA Manager at Concrete (an Accenture Company), leading 40 QAs in the Rio de Janeiro, São Paulo, Recife, Belo Horizonte (Brazil) and Colombia offices.
-
-I help our teams to define quality strategies to create incredible digital products.
+Today I'm living in São Paulo (Brazil), I work remotely in PayCertify, an American payment ecosystem, where I participate in product and engineering definitions focused on the software quality.
 
 I am passionate about agility. I believe in empiricism, continuous improvement and diversity.
-
 
 
 ## Education
@@ -23,8 +20,9 @@ I am passionate about agility. I believe in empiricism, continuous improvement a
 
 ## Roles
 
-* QA Manager, Concrete
-* Co-founder, Ministry Of Testing RJ
+* QA Manager, PayCertify
+* Co-founder, Ministry Of Testing Rio de Janeiro
+* Co-founder, Ministry Of Testing São Paulo
 * Member, Team of Thought
 * Co-founder, Agile Testers Conference
 
