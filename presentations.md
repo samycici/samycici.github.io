@@ -4,6 +4,22 @@ title: Presentations
 permalink: /presentations/
 ---
 
+### [Falando de Agilidade: de pessoas a produtos e tecnologia](https://speakerdeck.com/samycici/falando-de-agilidade-de-pessoas-a-produtos-e-tecnologia) 
+February, 2019
+
+Live Girls Talk
+
+
+***
+
+### [Desenvolvimento no Centro da Transformação Ágil](https://speakerdeck.com/samycici/desenvolvimento-no-centro-da-transformacao-agil) 
+February, 2019
+
+Agile Minas Talk
+
+
+***
+
 ### [Qualidade - Definindo uma estratégia para Mobile Apps](https://speakerdeck.com/samycici/qualidade-definindo-uma-estrategia-para-mobile-apps) 
 November, 2018
 

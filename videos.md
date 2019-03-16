@@ -4,6 +4,11 @@ title: Videos
 permalink: /videos/
 ---
 
+### [LiveGirls] Falando de Agilidade: de pessoas a produtos e tecnologia
+March, 2019
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DmpinvbqriM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ### [GDG Salvador] Estratégia de Qualidade - foco em Mobile Apps
 June, 2018
 
