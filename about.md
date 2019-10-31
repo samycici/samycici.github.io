@@ -8,7 +8,7 @@ Hello :)
 
 I'm Samanta, I'm working with Quality Assurance since 2012.
 
-Today I'm living in São Paulo (Brazil), I work remotely in PayCertify, an American payment ecosystem, where I participate in product and engineering definitions focused on the software quality.
+Today I'm living in São Paulo (Brazil), I work remotely at PayCertify, an American payments ecosystem, where I participate in product and engineering definitions focused on the software quality.
 
 I am passionate about agility. I believe in empiricism, continuous improvement and diversity.
 
