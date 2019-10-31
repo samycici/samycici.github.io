@@ -15,12 +15,13 @@ I am passionate about agility. I believe in empiricism, continuous improvement a
 
 ## Education
 
-* System Information from Unigranrio
-* MBA Quality Assurance from UFRJ
+* System Information @Unigranrio
+* MBA Quality Assurance @UFRJ
+* MBA Software Architecture @FIAP
 
 ## Roles
 
-* QA Manager, PayCertify
+* Head of Quality, PayCertify
 * Co-founder, Ministry Of Testing Rio de Janeiro
 * Co-founder, Ministry Of Testing São Paulo
 * Member, Team of Thought
