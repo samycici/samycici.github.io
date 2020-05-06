@@ -4,6 +4,12 @@ title: Videos
 permalink: /videos/
 ---
 
+### [Live Testes CESAR School] #5 | Há vida além da automação de testes?
+April, 2020
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8eOWy9ByTWE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
 ### [LiveGirls] Falando de Agilidade: de pessoas a produtos e tecnologia
 March, 2019
 

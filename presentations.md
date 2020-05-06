@@ -4,6 +4,14 @@ title: Presentations
 permalink: /presentations/
 ---
 
+### [Como construir a tão falada Cultura de Qualidade](https://speakerdeck.com/samycici/como-construir-a-tao-falada-cultura-de-qualidade) 
+February, 2020
+
+TheBug Conference
+
+
+***
+
 ### [Falando de Agilidade: de pessoas a produtos e tecnologia](https://speakerdeck.com/samycici/falando-de-agilidade-de-pessoas-a-produtos-e-tecnologia) 
 February, 2019
 

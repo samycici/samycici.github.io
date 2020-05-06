@@ -8,7 +8,7 @@ Hello :)
 
 I'm Samanta, I'm working with Quality Assurance since 2012.
 
-Today I'm living in São Paulo (Brazil), I work remotely at PayCertify, an American payments ecosystem, where I participate in product and engineering definitions focused on the software quality.
+Today I'm living in São Paulo (Brazil), I work as a Tech Lead at Pagar.me, a digital payments ecosystem, where I'm helping the digital unity to define and apply quality processes, procedures, and techniques to deliver high-quality software that solves our customers' needs.
 
 I am passionate about agility. I believe in empiricism, continuous improvement and diversity.
 
@@ -18,10 +18,11 @@ I am passionate about agility. I believe in empiricism, continuous improvement a
 * System Information @Unigranrio
 * MBA Quality Assurance @UFRJ
 * MBA Software Architecture @FIAP
+* Post Graduate Theology @Mackenzie
 
 ## Roles
 
-* Head of Quality, PayCertify
+* Tech Lead, Pagar.me
 * Co-founder, Ministry Of Testing Rio de Janeiro
 * Co-founder, Ministry Of Testing São Paulo
 * Member, Team of Thought
@@ -35,7 +36,8 @@ I am passionate about agility. I believe in empiricism, continuous improvement a
 * **Quality Assurance**   
 * **Testing Automation**
 * **Leadership**  
-* **Quality Strategy**     
+* **Quality Strategy** 
+* **Solutions Architecture**      
     
     
 ## Speaker
