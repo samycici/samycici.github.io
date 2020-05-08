@@ -10,6 +10,11 @@ April, 2020
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8eOWy9ByTWE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
+### [TheBug Conference] Como criar a tão falada Cultura de Qualidade
+Feb, 2020
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jFBkL2Sq7XQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ### [LiveGirls] Falando de Agilidade: de pessoas a produtos e tecnologia
 March, 2019
 
