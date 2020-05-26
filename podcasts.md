@@ -4,6 +4,11 @@ title: Podcasts
 permalink: /podcasts/
 ---
 
+### [Agile Testers] QAnsei - community.discuss('covid19')
+May, 2020
+
+<iframe src="https://anchor.fm/qansei/embed/episodes/community-discusscovid19-eeh7g7/a-a29p5f5" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+
 ### [Agile Testers] QAnsei - print(‘Hello World’)
 April, 2020
 
