@@ -4,11 +4,15 @@ title: Videos
 permalink: /videos/
 ---
 
+### [Agile Testers] Pergunte-me qualquer coisa
+Junho, 2020
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PXz38s8qq_Q" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ### [Live Testes CESAR School] #5 | Há vida além da automação de testes?
 April, 2020
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8eOWy9ByTWE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 
 ### [TheBug Conference] Como criar a tão falada Cultura de Qualidade
 Feb, 2020
