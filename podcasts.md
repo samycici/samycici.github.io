@@ -4,6 +4,16 @@ title: Podcasts
 permalink: /podcasts/
 ---
 
+### [Agile Testers] QAnsei - input I/O
+June, 2020
+
+<iframe src="https://anchor.fm/qansei/embed/episodes/input-IO-efl4ts/a-a2gn7ck" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+
+### [Agile Testers] QAnsei - assert unit_tests == true
+June, 2020
+
+<iframe src="https://anchor.fm/qansei/embed/episodes/assert-unit_tests--true-ef1fjj/a-a2cvq1e" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+
 ### [Agile Testers] QAnsei - community.discuss('covid19')
 May, 2020
 
