@@ -4,17 +4,27 @@ title: Podcasts
 permalink: /podcasts/
 ---
 
-### [Agile Testers] QAnsei - input I/O
+### [DNE] DNE 262 - Cenário atual de QA
+July, 2020
+
+<iframe style="border: none" src="//html5-player.libsyn.com/embed/episode/id/15158249/height/90/theme/custom/thumbnail/yes/direction/backward/render-playlist/no/custom-color/3CD52E/" height="90" width="100%" scrolling="no"  allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+
+### [Agile Testers] QAnsei - Experiências e Dicas de trabalho no exterior
+July, 2020
+
+<iframe src="https://anchor.fm/qansei/embed/episodes/Experincias-e-Dicas-de-trabalho-no-exterior-egci1j/a-a2krvoq" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+
+### [Agile Testers] QAnsei - Experiências Testando Hardware
 June, 2020
 
 <iframe src="https://anchor.fm/qansei/embed/episodes/input-IO-efl4ts/a-a2gn7ck" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
 
-### [Agile Testers] QAnsei - assert unit_tests == true
+### [Agile Testers] QAnsei - Unit Tests na perspectiva de desenvolvedores
 June, 2020
 
 <iframe src="https://anchor.fm/qansei/embed/episodes/assert-unit_tests--true-ef1fjj/a-a2cvq1e" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
 
-### [Agile Testers] QAnsei - community.discuss('covid19')
+### [Agile Testers] QAnsei - Comunidades de teste locais falam sobre COVID-19
 May, 2020
 
 <iframe src="https://anchor.fm/qansei/embed/episodes/community-discusscovid19-eeh7g7/a-a29p5f5" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
