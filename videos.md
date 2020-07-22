@@ -4,6 +4,11 @@ title: Videos
 permalink: /videos/
 ---
 
+### [mais.dev] Testes de Integração e Exploratórios
+Julho, 2020
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GThxc2i-E80" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ### [Agile Testers] Pergunte-me qualquer coisa
 Junho, 2020
 
